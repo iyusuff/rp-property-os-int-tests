@@ -1,0 +1,352 @@
+{
+    "data": [
+        {
+            "type": "propertytype",
+            "id": "1",
+            "attributes": {
+                "propertyTypeId": 1,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/1"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "2",
+            "attributes": {
+                "propertyTypeId": 2,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/2"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "3",
+            "attributes": {
+                "propertyTypeId": 3,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/3"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "4",
+            "attributes": {
+                "propertyTypeId": 4,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/4"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "5",
+            "attributes": {
+                "propertyTypeId": 5,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/5"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "6",
+            "attributes": {
+                "propertyTypeId": 6,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/6"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "7",
+            "attributes": {
+                "propertyTypeId": 7,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/7"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "8",
+            "attributes": {
+                "propertyTypeId": 8,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/8"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "9",
+            "attributes": {
+                "propertyTypeId": 9,
+                "propertyTypeName": null,
+                "description": "Condo\/Townhome For Sale"
+            },
+            "links": {
+                "self": "\/propertytype\/9"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "10",
+            "attributes": {
+                "propertyTypeId": 10,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/10"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "11",
+            "attributes": {
+                "propertyTypeId": 11,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/11"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "12",
+            "attributes": {
+                "propertyTypeId": 12,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/12"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "13",
+            "attributes": {
+                "propertyTypeId": 13,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/13"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "14",
+            "attributes": {
+                "propertyTypeId": 14,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/14"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "15",
+            "attributes": {
+                "propertyTypeId": 15,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/15"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "16",
+            "attributes": {
+                "propertyTypeId": 16,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/16"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "17",
+            "attributes": {
+                "propertyTypeId": 17,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/17"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "18",
+            "attributes": {
+                "propertyTypeId": 18,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/18"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "19",
+            "attributes": {
+                "propertyTypeId": 19,
+                "propertyTypeName": null,
+                "description": "Condo\/Townhome For Sale"
+            },
+            "links": {
+                "self": "\/propertytype\/19"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "20",
+            "attributes": {
+                "propertyTypeId": 20,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/20"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "21",
+            "attributes": {
+                "propertyTypeId": 21,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/21"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "22",
+            "attributes": {
+                "propertyTypeId": 22,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/22"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "23",
+            "attributes": {
+                "propertyTypeId": 23,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/23"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "24",
+            "attributes": {
+                "propertyTypeId": 24,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/24"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "25",
+            "attributes": {
+                "propertyTypeId": 25,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/25"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "26",
+            "attributes": {
+                "propertyTypeId": 26,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/26"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "27",
+            "attributes": {
+                "propertyTypeId": 27,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/27"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "28",
+            "attributes": {
+                "propertyTypeId": 28,
+                "propertyTypeName": null,
+                "description": "Condo\/Townhome For Sale"
+            },
+            "links": {
+                "self": "\/propertytype\/28"
+            }
+        },
+        {
+            "type": "propertytype",
+            "id": "29",
+            "attributes": {
+                "propertyTypeId": 29,
+                "propertyTypeName": null,
+                "description": ""
+            },
+            "links": {
+                "self": "\/propertytype\/29"
+            }
+        }
+    ]
+}
