@@ -45,10 +45,5 @@
     "classmap": [
       "tests/"
     ]
-  },
-  "config": {
-    "github-oauth": {
-      "github.com": ""
-    }
   }
 }
