@@ -2,8 +2,8 @@
 
 This project contains remote integration tests for RealPage Property OS APIs.
 
-* [Requirements](https://github.com/realpage-property-os/property-api/blob/master/CONTRIBUTING.md#requirements)
-* [Running Locally](https://github.com/realpage-property-os/property-api/blob/master/CONTRIBUTING.md#running-locally)
+* [Requirements](https://github.com/iyusuff/rp-property-os-int-tests/blob/master/CONTRIBUTING.md#requirements)
+* [Running Locally](https://github.com/iyusuff/rp-property-os-int-tests/blob/master/CONTRIBUTING.md#running-locally)
 
 This project follows the Realpage CI/CD standards as outlined in this diagram.
 
